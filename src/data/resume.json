@@ -1,0 +1,75 @@
+{
+  "name": "Kartik Singh",
+  "tagline": "B.Sc. Computer Science • Data Analyst & ML Enthusiast",
+  "summary": "Passionate about turning data into actionable insights. Experienced in building predictive models, interactive dashboards, and modern web experiences.",
+  "contact": {
+    "phone": "+91 99105 49116",
+    "email": "singhkartik2628@gmail.com",
+    "linkedin": "https://linkedin.com/in/kartik-singh-54854a216",
+    "github": "https://github.com/Vampsoutside"
+  },
+  "education": [
+    {
+      "institution": "Hansraj College, University of Delhi",
+      "degree": "B.Sc. Computer Science",
+      "years": "2022 – 2025",
+      "details": "Core focus on algorithms, data structures, machine learning, and software engineering."
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "C++", "R", "JavaScript", "Bash", "SQL"],
+    "tools": ["Excel", "Tableau", "Power BI", "Git", "GitHub", "Jupyter", "VS Code"],
+    "libs": ["Pandas", "NumPy", "Matplotlib", "TensorFlow", "Scikit-learn", "React"]
+  },
+  "experience": [
+    {
+      "title": "Data Science Intern",
+      "company": "Teachnook (in collaboration with IIT Bhubaneswar)",
+      "period": "2024",
+      "bullets": [
+        "Performed exploratory data analysis (EDA) and data preprocessing using Python.",
+        "Built and evaluated machine-learning models with Scikit-learn.",
+        "Developed a weather-forecasting app using external APIs.",
+        "Designed calculator-based GUI applications."
+      ]
+    },
+    {
+      "title": "IT Service Desk Analytics",
+      "company": "Self-initiated Project",
+      "period": "2024 – 2025",
+      "bullets": [
+        "Analyzed 97,498 IT support tickets over five years.",
+        "Cleaned & transformed datasets using Excel functions and Power Query.",
+        "Built an interactive dashboard with Pivot Tables, Pivot Charts & KPI cards.",
+        "Generated business recommendations to improve ticket resolution efficiency."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "IT Service Desk Analytics Dashboard",
+      "tech": "Microsoft Excel, Business Intelligence",
+      "desc": "Analyzed 97,498 IT support tickets over five years to evaluate operational performance and customer satisfaction. Built an interactive dashboard using Pivot Tables, Pivot Charts, KPI cards, slicers, and conditional formatting. Generated business recommendations to improve ticket resolution efficiency, resource allocation, and service quality.",
+      "link": null
+    },
+    {
+      "title": "Stock Market Prediction Using LSTM",
+      "tech": "Python, TensorFlow, Pandas, NumPy, Matplotlib",
+      "desc": "Built an LSTM deep-learning model to forecast stock prices from historical financial time-series data. Benchmarked model performance against Moving Average and Exponential Smoothing baselines. Pre-processed financial data through normalization and sequence generation, tuning with Adam optimizer and dropout regularisation.",
+      "link": null
+    },
+    {
+      "title": "MBTI-Based Movie & Music Recommender",
+      "tech": "JavaScript, Tailwind CSS, OMDb API",
+      "desc": "Responsive single-page web app that generates personalised movie & music recommendations from an interactive 16-question MBTI quiz. Integrated OMDb API for real-time movie data and dynamic search-link generation for Spotify & YouTube. Mobile-first, dark-themed UI deployed on GitHub Pages.",
+      "link": null
+    }
+  ],
+  "certifications": [
+    { "name": "Financial Markets – Yale University", "platform": "Coursera" },
+    { "name": "Python", "platform": "Kaggle" },
+    { "name": "SQL", "platform": "HackerRank" },
+    { "name": "Getting Started with Tableau", "platform": "Tableau" },
+    { "name": "Fundamentals of Digital Marketing", "platform": "Google" }
+  ]
+}
